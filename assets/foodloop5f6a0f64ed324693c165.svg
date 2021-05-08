@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 511.99999 511.99999"
+   id="svg4215"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/ehsan/Desktop/inkscape/icons/mipmap-xxxhdpi/ic_launcher.png"
+   inkscape:export-xdpi="33.75"
+   inkscape:export-ydpi="33.75"
+   sodipodi:docname="ic_launcher.svg">
+  <defs
+     id="defs4217" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.74229785"
+     inkscape:cx="49.613028"
+     inkscape:cy="86.741542"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4220">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36219)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.62624812;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7145-7-7-6"
+       sodipodi:type="arc"
+       sodipodi:cx="256"
+       sodipodi:cy="796.36218"
+       sodipodi:rx="256"
+       sodipodi:ry="256"
+       sodipodi:start="3.1219926"
+       sodipodi:end="3.1022529"
+       sodipodi:open="true"
+       d="M 0.04917117,801.37948 A 256,256 0 0 1 249.71968,540.43923 256,256 0 0 1 511.88884,788.81898 256,256 0 0 1 264.8059,1052.2107 256,256 0 0 1 0.19806933,806.43056"
+       inkscape:export-xdpi="280.88727"
+       inkscape:export-ydpi="280.88727" />
+    <path
+       style="fill:#fc5a43;fill-opacity:1;stroke:none;stroke-width:0.67398489;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 183.32227 149.01953 A 106.11324 106.11324 0 0 0 79.832031 257.17969 L 79.892578 259.27344 A 106.11324 106.11324 0 0 0 189.57422 361.15039 A 106.11324 106.11324 0 0 0 253.22266 336.89062 C 261.61045 329.4335 269.29178 321.36672 275.7168 312.23242 C 288.43357 294.14991 265.37216 278.29349 300.50586 250.71875 C 341.41024 218.61532 351.20898 213.60742 351.20898 213.60742 L 356.39648 218.78906 L 313.82617 266.28125 L 317.37305 269.82031 L 364.69531 227.03516 L 369.44727 231.79688 L 328.38867 280.92578 L 331.87695 284.36719 L 377.63086 239.95898 L 381.94727 244.28516 C 381.94727 244.28516 358.63297 283.78272 343.41992 300.16211 C 314.81434 334.75547 301.02673 307.99527 283.5957 319.66016 C 277.99835 323.40582 272.8712 327.73582 268.09375 332.49219 A 106.11324 106.11324 0 0 0 344.28516 361.43359 A 106.11324 106.11324 0 0 0 446.70117 252.25781 A 106.11324 106.11324 0 0 0 338.03125 149.30273 A 106.11324 106.11324 0 0 0 271.09961 175.35742 C 265.68496 180.80576 260.77126 186.66631 256.57227 193.11133 C 243.83835 212.65675 269.42063 230.61307 234.60352 259.55664 C 214.00287 278.58806 182.0328 290.39824 166.96289 276.05859 C 154.84049 264.52295 156.8264 234.08855 181.91992 205.59375 C 212.24027 173.70454 229.50911 197.49117 249.21094 184.70703 C 252.46493 182.59559 255.55817 180.29008 258.52148 177.83008 A 106.11324 106.11324 0 0 0 183.32227 149.01953 z "
+       id="path7145-7-7-2"
+       transform="translate(0,540.36219)" />
+  </g>
+</svg>

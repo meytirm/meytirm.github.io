@@ -1,0 +1,1 @@
+window.onload=function(){document.querySelector("#typing").classList.add("introduction__paragraph")};
